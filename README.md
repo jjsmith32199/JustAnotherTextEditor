@@ -1,3 +1,4 @@
+
 #Just Another Text Editor
 
 ##What is 'JATE'?
@@ -26,3 +27,5 @@ https://fierce-bastion-74716.herokuapp.com/
 
 
 ##In Action
+![JATE example 2](https://user-images.githubusercontent.com/113246711/236951505-c7c74b52-55fb-4eb4-b457-1116b85823cb.png)
+![JATE example](https://user-images.githubusercontent.com/113246711/236951508-d1a33cb1-0dbd-4622-bc3b-5c665a209dbd.png)
